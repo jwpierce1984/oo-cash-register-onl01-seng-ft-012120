@@ -1,4 +1,4 @@
-class Register
+class CashRegister
   
   
   def initialize(discount)
